@@ -54,7 +54,7 @@
 
 ## 💬 Reach Me
 
-- Instagram: [@devmoHaN](https://instagram.com/mohan_rajauriya)  
+- Instagram: [@mohan_rajauriya](https://instagram.com/mohan_rajauriya)  
 - GitHub Discussions  
 - YouTube & Dev Blog – *coming soon... stay tuned!*  
 
