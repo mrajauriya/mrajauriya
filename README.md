@@ -1,73 +1,107 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hey+there,+I'm+Mohan+Sharma+aka+SHARMA+JI+%F0%9F%91%8B;CS+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Android+Builder+%2B+CLI+Lover+%F0%9F%92%BB;Terminal+Poweruser+%F0%9F%92%AA;Open+Source+Dev+%F0%9F%92%9A;Exploring+AI,+Kotlin,+Bash+%F0%9F%94%9D" alt="Typing SVG" />
-</h1>
+<!-- PROFILE README START -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/gradient.gif" width="100%" height="180px" />
-</p>
-
----
-
-## 🚀 About Me
-
-> 🎯 *A minimalist in tools, a maximalist in creativity.*
-
-- 🔭 Building **Git Genius** – a smart GitHub CLI with Bash-based GUI magic  
-- 📱 Powering **AndroidPE / AndroidIDE** – Android-based developer playgrounds  
-- ⚙️ Automating dev workflows with GitHub Actions, PATs, Gradle, and Bash  
-- 🌱 Exploring **Kotlin Multiplatform**, **Termux IDEs**, and **AI CLI tools**  
-- ⚡ *Fun fact:* I turn terminals into full IDEs using only Bash  
-- 🤝 I thrive at the intersection of **developer experience + automation**
-
----
-
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,linux,git,github,androidstudio,java,kotlin,vim,gradle,markdown,regex,githubactions,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=moHaN-ShaArmA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=moHaN-ShaArmA&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moHaN-ShaArmA&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</p>
-
----
-
-## 🧠 Current Focus Areas
-
-- 🧩 Lang-based UIs – IDEs from scratch  
-- 🧙 Smart CLI Tools – Bash that feels like GUI  
-- ⚙️ Android Internals – from layout rendering to Gradle hacks  
-- 🚀 DevOps – CI/CD automation using GitHub Actions  
-- 📱 Termux DevKit – turning Android into full coding stations  
-
----
-
-## 💬 Reach Out
-
-<p align="center">
-  <a href="https://instagram.com/mohan_rajauriya" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/@mohan_rajauriya-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/moHaN-ShaArmA" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/moHaN-ShaArmA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mohan+Sharma+🚀;Engineer+%7C+Terminal+Wizard+🚀;Building+CLI+Magic+with+Bash+%26+Kotlin+🤖;Open+Source+Believer+❤️+and+Android+Poweruser" alt="Typing SVG" />
   </a>
 </p>
 
-> Dev blog and YouTube coming soon... stay tuned!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:3DDC84&height=200&section=header&text=Mohan%20Sharma%20%F0%9F%9A%80&fontSize=40&fontAlignY=35&desc=CLI%20Dev%20%7C%20Android%20Engineer%20%7C%20OSS%20Automator&descAlignY=55&animation=fadeIn" />
+</p>
 
 ---
 
-## ⚡ Quote To Code By
+## 🌟 About Me
+
+> 🎯 *Terminal first. IDE later.*
+
+- 🛠️ Creator of **Git Genius** – a Bash-based GitHub CLI with GUI feel  
+- 📱 Dev behind **AndroidPE** / **AndroidIDE** – Android apps for real devs  
+- 🧠 Building AI-assisted Bash workflows inside **Termux**  
+- ⚙️ Automating dev pipelines using **GitHub Actions**, **Gradle**, and **Shell**  
+- 💻 Loving **Kotlin MPP**, **regex wizardry**, and **automation scripting**
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,kotlin,java,androidstudio,linux,git,github,figma,gradle,vim,markdown,regex,githubactions,neovim" />
+</p>
+
+---
+
+## 🏆 Developer Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moHaN-ShaArmA&theme=radical&no-frame=true&no-bg=true&margin-w=8&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moHaN-ShaArmA&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=moHaN-ShaArmA&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moHaN-ShaArmA&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moHaN-ShaArmA/moHaN-ShaArmA/output/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
+
+<details>
+  <summary>🧪 How this works?</summary>
+
+  This animation is generated via GitHub Actions.  
+  It turns your commit history into a snake game-like animation.  
+  Want one? Follow: https://github.com/Platane/snk
+
+</details>
+
+---
+
+## 📌 Dev Interests
+
+- 🔧 Terminal-first IDEs powered by shell scripting  
+- 🧠 Smarter CLIs blending AI + Bash  
+- 📦 Full Android dev stack on mobile  
+- 🚀 Auto-release pipelines & offline-friendly build systems  
+- 🛡️ Secure PAT auth flows in developer tools  
+
+---
+
+## 🧠 Random Trivia Generator (SVG)
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://instagram.com/mohan_rajauriya" target="_blank">
+    <img src="https://img.shields.io/badge/@mohan_rajauriya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/moHaN-ShaArmA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💬 Quote to Code By
 
 > “Code like a human. Automate like a machine. Share like an open-sourcer.”  
 > — *Mohan Sharma*
@@ -75,12 +109,14 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="Hi gif" />
-  <em>Thanks for scrolling! Let’s build something legendary.</em>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  <em>Thanks for visiting! Let’s make something legendary together.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLI4Life-00F5FF?style=flat-square&logo=gnubash&logoColor=white" alt="CLI4Life" />
-  <img src="https://img.shields.io/badge/AndroidPower-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Power" />
-  <img src="https://img.shields.io/badge/OpenSourceAlways-181717?style=flat-square&logo=github&logoColor=white" alt="Open Source Always" />
+  <img src="https://img.shields.io/badge/CLI4Life-00F5FF?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/AndroidDev-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSourceAlways-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
+
+<!-- PROFILE README END -->
