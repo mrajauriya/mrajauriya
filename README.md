@@ -1,4 +1,5 @@
 <!-- PROFILE README START -->
+
 <p align="center">
   <a href="https://github.com/moHaN-ShaArmA">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mohan+Sharma+🚀;Engineer+%7C+Terminal+Wizard+🚀;Building+CLI+Magic+with+Bash+%26+Kotlin+🤖;Open+Source+Believer+❤️+and+Android+Poweruser" alt="Typing SVG" />
@@ -15,11 +16,11 @@
 
 > 🎯 *Terminal first. IDE later.*
 
-- 🛠️ Creator of **Git Genius** – a Bash-based GitHub CLI with GUI feel  
-- 📱 Dev behind **AndroidPE** / **AndroidIDE** – Android apps for real devs  
-- 🧠 Building AI-assisted Bash workflows inside **Termux**  
-- ⚙️ Automating dev pipelines using **GitHub Actions**, **Gradle**, and **Shell**  
-- 💻 Loving **Kotlin MPP**, **regex wizardry**, and **automation scripting**
+- 🛠️ Creator of **Git Genius** – Bash-based GitHub CLI with GUI vibes  
+- 📱 Maker of **AndroidPE** / **AndroidIDE** – Pro-grade Android Dev Tools  
+- 🤖 Integrating AI into Bash workflows inside **Termux**  
+- ⚙️ Automation wizardry using **GitHub Actions**, **Gradle**, **Shell**  
+- 💡 Passionate about **Kotlin MPP**, **regex**, and offline-first tooling
 
 ---
 
@@ -62,7 +63,7 @@
 
 ## 🐍 Contribution Snake Game
 
-<div align="center" style="background: #0f111a; padding: 20px; border-radius: 12px; margin: 20px 0;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/moHaN-ShaArmA/moHaN-ShaArmA/output/github-contribution-grid-snake.svg" alt="snake game" />
 </div>
 
@@ -77,32 +78,20 @@
 
 ---
 
-## 📌 Dev Interests
+## 🎯 Dev Interests
 
 - 🔧 Terminal-first IDEs powered by shell scripting  
-- 🧠 Smarter CLIs blending AI + Bash  
-- 📦 Full Android dev stack on mobile  
-- 🚀 Auto-release pipelines & offline-friendly build systems  
-- 🛡️ Secure PAT auth flows in developer tools  
+- 🧠 AI-assisted Bash & Git tooling  
+- 📦 Full-stack Android builds on mobile  
+- 🚀 CI/CD pipelines optimized for offline-ready workflows  
+- 🔐 Secure GitHub PAT authentication flows
 
 ---
 
-## 🧠 Random Trivia Generator 
+## 🤖 Random Trivia Generator
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke" />
-</p>
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="https://instagram.com/mohan_rajauriya" target="_blank">
-    <img src="https://img.shields.io/badge/@mohan_rajauriya-E4405F?style=for-the-badge&logo=instagram&logoColor=white&hover_color=DD2A7B" />
-  </a>
-  <a href="https://github.com/moHaN-ShaArmA" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hover_color=444" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=00F5FF&center=true&vCenter=true&width=700&lines=Why+do+Java+developers+wear+glasses%3F+Because+they+don't+C%23.;I'm+not+lazy%2C+I'm+on+energy+saving+mode.;In+a+world+of+classes%2C+be+an+interface.;Bash+like+nobody's+watching." />
 </p>
 
 ---
@@ -111,6 +100,19 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=2000&color=00F5FF&center=true&vCenter=true&width=600&lines=%22Code+like+a+human.%22;Automate+like+a+machine.;Share+like+an+open-sourcer." />
+</p>
+
+---
+
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://instagram.com/mohan_rajauriya" target="_blank">
+    <img src="https://img.shields.io/badge/@mohan_rajauriya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/moHaN-ShaArmA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
