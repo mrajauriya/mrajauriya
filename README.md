@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/moHaN-ShaArmA">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mohan+Sharma+🚀;Engineer+%7C+Terminal+Wizard+🚀;Building+CLI+Magic+with+Bash+%26+Kotlin+🤖;Open+Source+Believer+❤️+and+Android+Poweruser" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mohan+Sharma+🚀;Engineer+%7C+Terminal+Wizard+🚀;Building+CLI+Magic+with+Bash+%26+Kotlin+🤖;Open+Source+Believer+❤️+and+Android+Poweruser" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:3DDC84&height=200&section=header&text=Mohan%20Sharma%20%F0%9F%9A%80&fontSize=40&fontAlignY=35&desc=CLI%20Dev%20%7C%20Android%20Engineer%20%7C%20OSS%20Automator&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohan%20Sharma%20🚀&fontSize=40&fontAlignY=35&desc=CLI%20Dev%20%7C%20Android%20Engineer%20%7C%20OSS%20Automator&descAlignY=55&animation=twinkling" />
 </p>
 
 ---
@@ -53,11 +53,19 @@
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🧰 Top Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/moHaN-ShaArmA/moHaN-ShaArmA/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moHaN-ShaArmA&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🐍 Contribution Snake Game
+
+<div align="center" style="background: #0f111a; padding: 20px; border-radius: 12px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/moHaN-ShaArmA/moHaN-ShaArmA/output/github-contribution-grid-snake.svg" alt="snake game" />
+</div>
 
 <details>
   <summary>🧪 How this works?</summary>
@@ -80,7 +88,7 @@
 
 ---
 
-## 🧠 Random Trivia Generator (SVG)
+## 🧠 Random Trivia Generator 
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke" />
@@ -92,10 +100,10 @@
 
 <p align="center">
   <a href="https://instagram.com/mohan_rajauriya" target="_blank">
-    <img src="https://img.shields.io/badge/@mohan_rajauriya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/@mohan_rajauriya-E4405F?style=for-the-badge&logo=instagram&logoColor=white&hover_color=DD2A7B" />
   </a>
   <a href="https://github.com/moHaN-ShaArmA" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hover_color=444" />
   </a>
 </p>
 
@@ -103,8 +111,9 @@
 
 ## 💬 Quote to Code By
 
-> “Code like a human. Automate like a machine. Share like an open-sourcer.”  
-> — *Mohan Sharma*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=2000&color=00F5FF&center=true&vCenter=true&width=600&lines=%22Code+like+a+human.%22;Automate+like+a+machine.;Share+like+an+open-sourcer." />
+</p>
 
 ---
 
