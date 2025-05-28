@@ -1,8 +1,7 @@
 <!-- PROFILE README START -->
-
 <p align="center">
   <a href="https://github.com/moHaN-ShaArmA">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mohan+Sharma+🚀;Engineer+%7C+Terminal+Wizard+🚀;Building+CLI+Magic+with+Bash+%26+Kotlin+🤖;Open+Source+Believer+❤️+and+Android+Poweruser" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mohan+Sharma+🚀;Engineer+%7C+Terminal+Wizard+🚀;Building+CLI+Magic+with+Bash+%26+Kotlin+🤖;Open+Source+Believer+❤️+and+Android+Poweruser" alt="Typing SVG" />
   </a>
 </p>
 
