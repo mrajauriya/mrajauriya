@@ -16,8 +16,9 @@
 
 > 🎯 *Terminal first. IDE later.*
 
-- 🛠️ Creator of **Git Genius** – Bash-based GitHub CLI with GUI vibes  
-- 📱 Maker of **AndroidPE** / **AndroidIDE** – Pro-grade Android Dev Tools  
+- 🛠️ Creator of **Git Genius** – Bash-based GitHub CLI with GUI vibes
+- 🛠️ Creator of **Smrthask** – Gemini api based ai assistant  
+- 📱 Mantainer of **AndroidPE** / **AndroidIDE** – Pro-grade Android Dev Tools  
 - 🤖 Integrating AI into Bash workflows inside **Termux**  
 - ⚙️ Automation wizardry using **GitHub Actions**, **Gradle**, **Shell**  
 - 💡 Passionate about **Kotlin MPP**, **regex**, and offline-first tooling
